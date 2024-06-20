@@ -10,5 +10,5 @@
 ## To generate schema from on client side from the server: 
   1. change the server url.
   2. paste the authorization key.
-  3. run
-```node main.js```
+  3. run.
+  ```node main.js```
