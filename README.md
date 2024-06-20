@@ -11,4 +11,6 @@
   1. change the server url.
   2. paste the authorization key.
   3. run.
-  ```node main.js```
+  ```
+node main.js
+```
