@@ -5,7 +5,7 @@
 1. node version 16 or above should be installed.
 2. graphql should be installed.
 ```
- npm install graphql
+ npm install graphql --save-dev
 ```
 
 ## To generate schema from on client side from the server: 
