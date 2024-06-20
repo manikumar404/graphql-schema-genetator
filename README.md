@@ -1,4 +1,5 @@
 # graphql-schema-genetator
+## This code will generate schema.graphql file in your project
 
 ## Requirements
 1. node version 16 or above should be installed.
